@@ -6,6 +6,7 @@ This repository contains a curated list of useful resources for web development,
 
 | Platform                                  | Description                            | Link                                                     |
 |-------------------------------------------|----------------------------------------|----------------------------------------------------------|
+| Roadmap for 1st to 3rd year               | A roadmap by Nishant Tiwari            | [Visit](https://github.com/nishant-Tiwari24/coding-resources)        |
 | CDNJS Font Awesome                        | Font Awesome library for web projects  | [Visit](https://cdnjs.com/libraries/font-awesome)        |
 | Uiverse                                   | UI elements and components             | [Visit](https://uiverse.io/elements?)                    |
 | LeetCode                                  | Coding challenges and interview prep   | [Visit](https://leetcode.com/)                           |
