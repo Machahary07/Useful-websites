@@ -16,5 +16,7 @@ This repository contains a curated list of useful resources for web development,
 | Remix Ethereum IDE                        | Browser-based IDE for Solidity development     | [Visit](https://remix.ethereum.org/)                    |
 | Next.js                                   | React framework for building web applications  | [Visit](https://nextjs.org/)                            |
 | React                                     | JavaScript library for building user interfaces | [Visit](https://react.dev/)                             |
+| GeeksforGeeks                             | Comprehensive computer science resources       | [Visit](https://www.geeksforgeeks.org/)                 |
+| W3Schools                                 | Web development tutorials and references       | [Visit](https://www.w3schools.com/)                     |
 
 Feel free to explore these resources to enhance your web development skills.
