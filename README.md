@@ -20,6 +20,8 @@ This repository contains a curated list of useful resources for web development,
 | GeeksforGeeks                             | Comprehensive computer science resources       | [Visit](https://www.geeksforgeeks.org/)                 |
 | W3Schools                                 | Web development tutorials and references       | [Visit](https://www.w3schools.com/)                     |
 | Learncpp                                  | Learn Cpp for free                     |  [Visit](https://www.learncpp.com/)                      |          
+| MDN Web Docs                              | Comprehensive documentation for web standards  | [Visit](https://developer.mozilla.org/)                 |
+
 
 Feel free to explore these resources to enhance your web development skills.
 
