@@ -22,6 +22,8 @@ This repository contains a curated list of useful resources for web development,
 | Learncpp                                  | Learn Cpp for free                     |  [Visit](https://www.learncpp.com/)                      |          
 | MDN Web Docs                              | Comprehensive documentation for web standards  | [Visit](https://developer.mozilla.org/)                 |
 | Shadcn                              | Beautifully designed components that you can copy and paste into your apps.  | [Visit](https://ui.shadcn.com/) |
+| Lucide React                              | A fully customizable library of SVG icons for React  | [Visit](https://lucide.dev/icons/) |
+
 
 
 Feel free to explore these resources to enhance your web development skills.
