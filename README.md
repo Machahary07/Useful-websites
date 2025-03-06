@@ -24,6 +24,7 @@ This repository contains a curated list of useful resources for web development,
 | Shadcn                              | Beautifully designed components that you can copy and paste into your apps.  | [Visit](https://ui.shadcn.com/) |
 | Lucide React                              | A fully customizable library of SVG icons for React  | [Visit](https://lucide.dev/icons/) |
 | Bolt AI                                   | Prompt, run, edit web and mobile apps | [Visit](https://bolt.new/)                                   |
+| Framer                                    | My Favorite No Code Website Builder   | [Visit](https://framer.com/)                      |
 
 
 
