@@ -23,6 +23,7 @@ This repository contains a curated list of useful resources for web development,
 | MDN Web Docs                              | Comprehensive documentation for web standards  | [Visit](https://developer.mozilla.org/)                 |
 | Shadcn                              | Beautifully designed components that you can copy and paste into your apps.  | [Visit](https://ui.shadcn.com/) |
 | Lucide React                              | A fully customizable library of SVG icons for React  | [Visit](https://lucide.dev/icons/) |
+| Bolt AI                                   | Prompt, run, edit web and mobile apps | [Visit](https://bolt.new/)                                   |
 
 
 
