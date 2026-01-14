@@ -6,6 +6,7 @@ This repository contains a curated list of useful resources for web development,
 
 | Platform                                  | Description                            | Link                                                     |
 |-------------------------------------------|----------------------------------------|----------------------------------------------------------|
+| NeetCode                                  | Structured DSA + coding interview prep (Blind 75, patterns, explanations) | [Visit](https://neetcode.io/) |
 | Roadmap for 1st to 3rd year               | A roadmap by [Nishant Tiwari](https://github.com/nishant-Tiwari24)            | [Visit](https://github.com/nishant-Tiwari24/coding-resources)        |
 | CDNJS Font Awesome                        | Font Awesome library for web projects  | [Visit](https://cdnjs.com/libraries/font-awesome)        |
 | Uiverse                                   | UI elements and components             | [Visit](https://uiverse.io/elements?)                    |
